@@ -1,7 +1,7 @@
 ### `rikbuilds`
 
 Ciberseguridad ofensiva y auditoría de redes — **Wi-Fi · IoT · entornos marítimos**.
-Construyo herramientas que no solo encuentran fallos, sino que los **explican** en lenguaje claro.
+Construyo herramientas.
 
 ---
 
